@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://github.com/nckenn/nckenn/blob/main/code.gif?raw=true" width="412" height="320" />
+
 ### Hello there 👋, I'm Kenn 👱
 
 I'm a Full Stack Web developer 🚀 from Philippines.
