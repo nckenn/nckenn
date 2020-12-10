@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 
 ### Hello there 👋, I'm Kenn 👱
 
@@ -14,4 +14,4 @@ I'm trying to get into **Python** as well.
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nckenn&show_icons=true&theme=gotham" alt="nckenn" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nckenn&show_icons=true&theme=gotham" alt="nckenn" /> </p>
